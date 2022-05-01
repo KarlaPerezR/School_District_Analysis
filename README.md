@@ -9,6 +9,8 @@ Analyze a School District about the budgets, budget per student, average in the 
 
 * How is the school summary affected?
 </br>
+When the scores were ommitted the overral passing reduces by 0.11% and the range of spending $630 -644 per student dalso decreased by 0.1%
+
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 </br>How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
