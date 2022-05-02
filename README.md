@@ -19,11 +19,11 @@ Analyze a School District about the budgets, budget per student, average in the 
 <br>![Top_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/Top_After.PNG)
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-<br>As the above table, the Overall score decreased 0.3 points but it doesn't affected the rating of any school.
+<br><br>As the above table, the Overall score decreased 0.3 points but it doesn't affected the rating of any school.
 
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
- <br> The only score affected was the 9th grade for the Tomas High School
+ <br><br> The only score affected was the 9th grade for the Tomas High School
 <br><br>**Reading Scores Before**
 <br>![Reading_before](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/9th_before.PNG)
 <br><br>**Reading Scores After**
@@ -34,13 +34,13 @@ Analyze a School District about the budgets, budget per student, average in the 
 <br>![Math_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/Reading_after.PNG)
 
   * Scores by school spending
-  <br>It was a little decrease $630-644 but only in the hundredths (because is we round the numbers the difference is not visible) with a decreases of 0.01 of the Average Math score and 0.02 in the % of Passing Maths
+  <br><br>It was a little decrease $630-644 but only in the hundredths (because is we round the numbers the difference is not visible) with a decreases of 0.01 of the Average Math score and 0.02 in the % of Passing Maths
   <br><br>**Spending Ranges Before**
 <br>![Spending_before](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/Spending_before.PNG)
 <br><br>**Spending Ranges After**
 <br>![Spending_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/Spending_after.PNG)
   * Scores by school size
-  <br> The changes are not visible in decimals only a decrease in the size Medium less than 0.1%.
+  <br><br> The changes are not visible in decimals only a decrease in the size Medium less than 0.1%.
 <br>![School_size](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/SchoolSize.PNG)
 
   * Scores by school type
