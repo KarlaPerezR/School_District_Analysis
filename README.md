@@ -19,7 +19,10 @@ Analyze a School District about the budgets, budget per student, average in the 
 <br>![Top_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/Top_After.PNG)
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-<br><br>
+
+
+<br>How does replacing the ninth-grade scores affect the following:
+  * Math and reading scores by grade
 <br><br>**Reading Scores Before**
 <br>![Reading_before](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/9th_before.PNG)
 <br><br>**Reading Scores After**
@@ -29,8 +32,6 @@ Analyze a School District about the budgets, budget per student, average in the 
 <br><br>**Math Scores After**
 <br>![Math_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/Reading_after.PNG)
 
-<br>How does replacing the ninth-grade scores affect the following:
-  * Math and reading scores by grade
   * Scores by school spending
   * Scores by school size
 <br>![School_size](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/SchoolSize.PNG)
