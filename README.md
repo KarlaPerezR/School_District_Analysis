@@ -13,14 +13,14 @@ Analyze a School District about the budgets, budget per student, average in the 
 * How is the school summary affected?
 <br><br>**Before**
 <br>![Top_before](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/TopSchools_before.PNG)
-<br>**After**
+<br><br>**After**
 <br>![Top_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/TopSchools_after.PNG)
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 <br> The Thomas High School's remain s in the second best performin school in the district
 <br><br>**Before**
 <br>![Group_monthly](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/9th_before.PNG)
-<br>**After**
+<br><br>**After**
 <br>![Group_monthly](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/9th_after.PNG)
 
 <br>How does replacing the ninth-grade scores affect the following:
