@@ -34,6 +34,10 @@ Analyze a School District about the budgets, budget per student, average in the 
 <br>![Math_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/Reading_after.PNG)
 
   * Scores by school spending
+  <br><br>**Spending Ranges Before**
+<br>![Spending_before](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/Spending_before.PNG)
+<br><br>**Spending Ranges After**
+<br>![Spending_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/Spending_after.PNG)
   * Scores by school size
 <br>![School_size](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/SchoolSize.PNG)
 
