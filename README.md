@@ -34,6 +34,7 @@ Analyze a School District about the budgets, budget per student, average in the 
 <br>![Math_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/Reading_after.PNG)
 
   * Scores by school spending
+  <br>It was a little decrease $630-644 but only in the hundredths (because is we round the numbers the difference is not visible) with a decreases of 0.01 of the Average Math score and 0.02 in the % of Passing Maths
   <br><br>**Spending Ranges Before**
 <br>![Spending_before](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/Spending_before.PNG)
 <br><br>**Spending Ranges After**
