@@ -14,6 +14,7 @@ Analyze a School District about the budgets, budget per student, average in the 
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 <br> The Thomas High School's remain s in the second best performin school in the district
+Esta es una nota al pie sencilla[^1]
 <br>![Group_monthly](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/9th_before.PNG)
 <br>![Group_monthly](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/9th_after.PNG)
 
