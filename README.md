@@ -12,7 +12,7 @@ Analyze a School District about the budgets, budget per student, average in the 
 <br>![District_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/District_after.PNG)
 
 * How is the school summary affected?
-<br><br>The Thomas High School's remain s in the second best performin school in the district
+<br><br>The Thomas High School's remain s in the second best performin school in the district, the values of 9th grade doesn't change the order for the schools.
 <br><br>**Top Schools Before**
 <br>![Top_before](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/Top_Before.PNG)
 <br><br>**Top Schools After**
