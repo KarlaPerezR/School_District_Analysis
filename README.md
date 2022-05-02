@@ -5,17 +5,22 @@ Analyze a School District about the budgets, budget per student, average in the 
 ## Results
 * How is the district summary affected?
 <br> As the data has a large number of students register the change of one school doesn't affect to much the district
+### Before
 <br>![District_before](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/District_before.PNG)
+### After
 <br>![District_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/District_after.PNG)
 
 * How is the school summary affected?
+### Before
 <br>![Top_before](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/TopSchools_before.PNG)
+### After
 <br>![Top_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/TopSchools_after.PNG)
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 <br> The Thomas High School's remain s in the second best performin school in the district
-Esta es una nota al pie sencilla[^1]
+### Before
 <br>![Group_monthly](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/9th_before.PNG)
+### After
 <br>![Group_monthly](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/9th_after.PNG)
 
 <br>How does replacing the ninth-grade scores affect the following:
