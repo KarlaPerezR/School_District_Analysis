@@ -4,7 +4,7 @@ Analyze a School District about the budgets, budget per student, average in the 
 
 ## Results
 * How is the district summary affected?
-<br> As the data has a large number of students register the change of one school doesn't affect to much the district
+<br><br> As the data has a large number of students register the change of one school doesn't affect to much the district
 <br> The average Math score decrease only 0.1 and affects in an Overall of 0.3 points less. The average of reading remains.
 <br><br>**Before**
 <br>![District_before](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/District_before.PNG)
