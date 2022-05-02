@@ -12,20 +12,21 @@ Analyze a School District about the budgets, budget per student, average in the 
 <br>![District_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/District_after.PNG)
 
 * How is the school summary affected?
+*<br><br>The Thomas High School's remain s in the second best performin school in the district
 <br><br>**Before**
 <br>![Top_before](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/TopSchools_before.PNG)
 <br><br>**After**
 <br>![Top_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/TopSchools_after.PNG)
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-<br> The Thomas High School's remain s in the second best performin school in the district
-<br><br>**Before**
+<br><br>
+<br><br>**Math Scores Before**
 <br>![Math_before](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/9th_before.PNG)
-<br><br>**After**
+<br><br>**Math Scores After**
 <br>![Math_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/9th_after.PNG)
-<br><br>**Before**
+<br><br>**Reading Scores Before**
 <br>![Math_before](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/Reading_before.PNG)
-<br><br>**After**
+<br><br>**Reading Scores After**
 <br>![Math_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/Reading_after.PNG)
 
 
