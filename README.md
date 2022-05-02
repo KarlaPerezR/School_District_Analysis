@@ -5,8 +5,8 @@ Analyze a School District about the budgets, budget per student, average in the 
 ## Results
 * How is the district summary affected?
 <br> As the data has a large number of students register the change of one school doesn't affect to much the district
-<br>![Group_monthly](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/SchoolTotals.PNG)
-
+<br>![District_before](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/District_before.PNG)
+<br>![District_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/District_after.PNG)
 * How is the school summary affected?
 
 
