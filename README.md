@@ -49,5 +49,6 @@ Analyze a School District about the budgets, budget per student, average in the 
 
 ## Summary
 
-<br>There was not biggest changes in the omission of the one grade (9th) of the Tomas High School, because the analysis contains a lot of data of differents grades and schools. 
+<br>There was not biggest changes in the omission of the one grade (9th) of the Thomas High School, because the analysis contains a lot of data of differents grades and schools. 
 <br> The omission of data implied a decrease in the count of total students overall, and total students at Thomas High School, specifically for this analysis.
+<br> If we coul take the tend of the Thomas Hogh School, has a great performance in the rest of the grades so the doubt about the authenticity of the 9th grades could be only that, a doubt.
