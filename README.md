@@ -19,7 +19,7 @@ Analyze a School District about the budgets, budget per student, average in the 
 <br>![Top_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/Top_After.PNG)
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-<br>As the above table, the Overall score decreased 0.3 points buty doesn't affected the rating of any school.
+<br>As the above table, the Overall score decreased 0.3 points but it doesn't affected the rating of any school.
 
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
@@ -40,8 +40,14 @@ Analyze a School District about the budgets, budget per student, average in the 
 <br><br>**Spending Ranges After**
 <br>![Spending_after](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/Spending_after.PNG)
   * Scores by school size
+  <br> The changes are not visible in decimals only a decrease in the size Medium less than 0.1%.
 <br>![School_size](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/SchoolSize.PNG)
 
   * Scores by school type
+  <br> The changes are not visible in decimals only in the hundredths in the Average Math SCore an the % of Passing Math with decrease of 0.01 an 0.01%.
+<br>![School_size](https://github.com/KarlaPerezR/School_District_Analysis/blob/main/Resources/SchoolType.PNG)
 
 ## Summary
+
+<br>There was not biggest changes in the omission of the one grade (9th) of the Tomas High School, because the analysis contains a lot of data of differents grades and schools. 
+<br> The omission of data implied a decrease in the count of total students overall, and total students at Thomas High School, specifically for this analysis.
